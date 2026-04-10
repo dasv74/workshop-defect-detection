@@ -41,3 +41,5 @@ dataset/
 |  |-- bad-masks/ (not used)
 
 ```
+
+<p align="center"><img src="summary_report_ResNet18_LogisticRegression_mps.png"></p>
